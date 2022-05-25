@@ -26,7 +26,7 @@ Newton RIP | Non-Discovery Popup
 
 ## Video of the App 
 
-[link](https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/screen-gravinewton-wwdc.mov)
+link
 
 ## Frameworks 📚
 
