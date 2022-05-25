@@ -1,4 +1,4 @@
-# GraviNewton 🍎
+# GraviNewton 🍎 - [Accepted] WWDC22 Scholarship Application
 
 ## The project ⌨️
 
