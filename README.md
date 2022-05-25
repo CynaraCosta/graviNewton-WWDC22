@@ -28,6 +28,10 @@ Newton RIP | Non-Discovery Popup
 
 For this project I used SwiftUI 👾 in Swift and AVKit language for sound effects. In addition to using Garageband to create the sounds of the game and the PixelArt website to create most of the design of the App.
 
+## Video of the App 🎥
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kbO4dDJVx-A/0.jpg)](https://www.youtube.com/watch?v=kbO4dDJVx-A)
+
 ## Como utilizar? 🔍
 
 Just download the current project, open it in xcode and select the "play" symbol or press "command + R" which will launch the project!
