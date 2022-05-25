@@ -14,19 +14,19 @@ In this version of the app, I put my first knowledge of swift into practice, so 
 
 Initial PopUp | Home screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/initpopup.png" alt="PopUp Inicial" width="500" height="240"> | <img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/sleep.png" alt="Tela Inicial" width="500" height="240"> 
+<img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/init-popup.png" alt="Initial PopUp" width="500" height="240"> | <img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/home-screen.png" alt="Home Screen" width="500" height="240"> 
 
-Newton discovering gravity | Discovery popup
+Newton discovering gravity | Discovery PopUp
 :-------------------------:|:-------------------------:
-<img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/idea.png" alt="Newton descobrindo a gravidade" width="500" height="240"> | <img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/find.png" alt="PopUp de descoberta" width="500" height="240"> 
+<img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/discovered.png" alt="Newton discovering gravity" width="500" height="240"> | <img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/discovered-popup.png" alt="Discovery PopUp" width="500" height="240"> 
 
 Newton RIP | Non-Discovery Popup
 :-------------------------:|:-------------------------:
-<img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/rip.png" alt="Newton RIP" width="500" height="240">  | <img src="https://github.com/CynaraCosta/graviNewtonUIKit/blob/main/Screenshots/notfind.png" alt="Newton nao descobriu" width="500" height="240"> 
+<img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/rip.png" alt="Newton RIP" width="500" height="240">  | <img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/rip-popup.png" alt="Non-Discovery Popup" width="500" height="240"> 
 
 ## Video of the App 
 
-link
+[link](https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/screen-gravinewton-wwdc.mov)
 
 ## Frameworks 📚
 
