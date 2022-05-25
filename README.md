@@ -24,10 +24,6 @@ Newton RIP | Non-Discovery Popup
 :-------------------------:|:-------------------------:
 <img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/rip.png" alt="Newton RIP" width="500" height="240">  | <img src="https://github.com/CynaraCosta/graviNewton-WWDC/blob/main/Screenshots/rip-popup.png" alt="Non-Discovery Popup" width="500" height="240"> 
 
-## Video of the App 
-
-link
-
 ## Frameworks 📚
 
 For this project I used SwiftUI 👾 in Swift and AVKit language for sound effects. In addition to using Garageband to create the sounds of the game and the PixelArt website to create most of the design of the App.
