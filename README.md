@@ -1,4 +1,4 @@
-# GraviNewton 🍎 - [Accepted] WWDC22 Scholarship Application
+# GraviNewton 🍎 - [[Accepted]](https://drive.google.com/file/d/1K-AhE_rXtqhm1gWamrgsA5evyAkUrPQc/view?usp=sharing) WWDC22 Scholarship Application
 
 ## The project ⌨️
 
