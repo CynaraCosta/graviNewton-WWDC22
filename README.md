@@ -2,7 +2,7 @@
 
 ## The project ⌨️
 
-Have you ever stopped to think about how things happened? What if they were different? Are there other factors that directly influenced this? Well then! GraviNewton will show you the world before gravity was discovered! Where you can find out what happened to Newton and the famous story of the apple. What if Earth's gravity was different? What would you have with him?
+Have you ever stopped to think about how things happened? What if they were different? Are there other factors that directly influenced this? Well then! GraviNewton will show you the world before gravity was discovered! Where you can find out what happened to Newton and the famous story of the apple. What if Earth's gravity was different? What would have happened to him?
 
 GraviNewton is an application to help you visualize this, in an educational and dynamic way!
 
